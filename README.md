@@ -1,16 +1,42 @@
-# React + Vite
+# Top Courses App 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic web application that fetches and displays top educational courses from an API. Built to practice React state management, API integration, and Tailwind CSS styling.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[View Live Site](https://aravind-tanneri.github.io/courseApp/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+* **Framework:** React (Hooks: useState, useEffect)
+* **Styling:** Tailwind CSS
+* **API:** REST API Integration
+* **Notifications:** React Toastify
+* **Icons:** React Icons
 
-## React Compiler
+## ✨ Features
+* **Category Filtering:** seamlessly filter courses by type (Development, Business, Design, etc.).
+* **API Integration:** Fetches real-time course data from an external API.
+* **Interactive UI:** Includes loading spinners and toast notifications for user feedback.
+* **Responsive Design:** Fully adaptable grid layout using Tailwind CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/user-attachments/assets/2c4553c1-d119-4fea-b149-6618ec2aa368
+
+
+
+## 📦 Getting Started
+
+1.  **Clone the repository**
+    ```bash
+    git clone (https://github.com/Aravind-tanneri/courseApp.git)
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
