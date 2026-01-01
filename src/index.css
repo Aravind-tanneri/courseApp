@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+
+  --color-bgDark: #22223b;
+  --color-bgDark2: #4a4e69;
+}
+
+:root {
+  font-family: var(--font-poppins);
+}
